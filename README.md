@@ -141,3 +141,6 @@ Deploy directly using the Vercel CLI or Git integration:
 vercel
 ```
 `vercel.json` automatically routes `/api/(.*)` to `backend/api/index.js` and serves the React SPA from `frontend/dist`.
+
+## Live Demo Link
+https://drive.google.com/drive/folders/1caMPdtR0s7ye61W1Eo0sCyoEQBkp-PBw?usp=sharing
